@@ -15,7 +15,7 @@ A simple and quirky To-Do list made with React — where even the tasks make you
 - Firebase (optional for backend)
 
 ## 📸 Screenshots
-<img src="your-image-url" alt="App Screenshot" width="400"/>
+<img src="https://i.postimg.cc/Kj0hm2xf/Screenshot-2025-08-01-230938.png" alt="App Screenshot" width="400"/>
 
 ## 🤝 Want to Contribute?
 Pull Requests are welcome!
