@@ -1,42 +1,12 @@
-# 😂 Funny To-Do List
+# React + Vite
 
-A simple React-based to-do list app that turns your everyday tasks into hilarious reminders.  
-Because productivity is important — but laughter is *mandatory*. 😄
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## 🎯 Features
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- 📝 Add tasks (yes, even ones you've already done — we all do it)
-- ✅ Mark tasks complete with a satisfying checkbox
-- 🗑️ Delete tasks when you're done pretending to do them
-- 📉 See how many tasks are still haunting you
-- 🔥 Minimalist UI with maximum sarcasm
+## Expanding the ESLint configuration
 
----
-
-## 🧪 Sample Funny Tasks
-
-- ☐ Pretend to understand the daily standup  
-- ☐ Add a task just to feel productive  
-- ☐ Rename `final_final_version` to `final_final_final`  
-- ☐ Commit code and pray 🙏  
-- ☐ Take a break from your break 💤  
-
----
-
-## 🚀 Tech Stack
-
-- ⚛️ React  
-- 🎨 Custom CSS (debugging made easier)  
-- 🧩 SVG Icons (because buttons deserve style too)
-
----
-
-## 🛠️ Getting Started
-
-```bash
-git clone https://github.com/your-username/funny-todo-list.git
-cd funny-todo-list
-npm install
-npm start
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
